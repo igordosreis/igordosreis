@@ -1,10 +1,10 @@
 ### Sobre mim:
 
-Eu sou um desenvolvedor web full stack e utilizo MERN (Mongo/MySQL, Express, React, Node).
+Eu sou um desenvolvedor web fullstack e utilizo MERN (Mongo/MySQL, Express, React, Node).
 
 Falo português 🇧🇷 nativamente e inglês 🇺🇸 fluente.
 
-Em meu tempo livre, gosto de jogar no computador, de treinar força e de praticar e estudar esgrima histórica.
+No meu tempo livre, gosto de jogar no computador, de treinar força e de praticar e estudar esgrima histórica.
 
 ---
 
@@ -87,11 +87,11 @@ Jest &nbsp;<img align="top" height="14px" src="https://www.vectorlogo.zone/logos
 ### Redes e contato:
 
 <div>
-  <a href="https://www.linkedin.com/in/igordosreis"> Linkedin
+  <a href="https://www.linkedin.com/in/igordosreis"> Linkedin&nbsp;
     <img align="top" width="18px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin">
   </a>
   <br>
-  <a href="mailto:igorreis@gmail.com"> Email
+  <a href="mailto:igorreis@gmail.com"> Email&nbsp;
     <img align="top" width="18px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="gmail">
   </a>
 </div>
