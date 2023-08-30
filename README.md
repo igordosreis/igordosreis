@@ -1,4 +1,4 @@
-### Sobre mim:
+### Sobre mim
 
 Eu sou um desenvolvedor web fullstack e utilizo MERN (Mongo/MySQL, Express, React, Node).
 
@@ -8,7 +8,7 @@ No meu tempo livre, gosto de jogar no computador, de treinar força e de pratica
 
 ---
 
-### Ferramentas:
+### Ferramentas
 
 <!-- #### Linguagens
 
@@ -84,7 +84,7 @@ Jest &nbsp;<img align="top" height="14px" src="https://www.vectorlogo.zone/logos
 
 ---
 
-### Redes e contato:
+### Contato
 
 <div>
   <a href="https://www.linkedin.com/in/igordosreis"> Linkedin&nbsp;
