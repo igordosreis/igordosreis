@@ -88,11 +88,11 @@ Jest &nbsp;<img align="center" height="14px" src="https://www.vectorlogo.zone/lo
 
 <div>
   <a href="https://www.linkedin.com/in/igordosreis"> Linkedin&nbsp;
-    <img align="center" width="18px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin">
+    <img align="top" width="18px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin">
   </a>
   <br>
   <a href="mailto:igorreis@gmail.com"> Email&nbsp;
-    <img align="center" width="18px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="gmail">
+    <img align="top" width="18px" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="gmail">
   </a>
 </div>
 
