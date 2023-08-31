@@ -2,7 +2,7 @@
 
 Eu sou um desenvolvedor web fullstack e utilizo MERN (Mongo/MySQL, Express, React, Node).
 
-Falo português 🇧🇷 nativamente e inglês 🇺🇸 fluente.
+Falo português 🇧🇷&nbsp; nativamente e inglês 🇺🇸&nbsp; fluente.
 
 No meu tempo livre, gosto de jogar no computador, de treinar força e de praticar e estudar esgrima histórica.
 
